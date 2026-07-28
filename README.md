@@ -22,4 +22,4 @@ Ensure dependencies are installed:
 pip install requests beautifulsoup4 pandas lxml openpyxl
 ```
 ## Files
-- Day68_table_extraction_from_websites.py
+- Day68_Table_Extraction_From_Websites.py
