@@ -20,3 +20,5 @@ This module automates the extraction of structured financial tables from web sou
 Ensure dependencies are installed:
 ```bash
 pip install requests beautifulsoup4 pandas lxml openpyxl
+```
+## Files
